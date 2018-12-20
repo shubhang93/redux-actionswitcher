@@ -1,0 +1,9 @@
+{
+  "name": "redux-actionswitcher",
+  "version": "1.0.0",
+  "description": "A Declarative way to write redux actions.",
+  "main": "index.js",
+  "author": "Shubhang",
+  "license": "MIT",
+  "private": false
+}
