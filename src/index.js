@@ -1,4 +1,3 @@
-//@flow
 const actionSwitcher = function(actions, initialState) {
   return function(state = initialState, action) {
     if (action && actions.hasOwnProperty(action.type))
